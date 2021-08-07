@@ -20,7 +20,8 @@ const Card = ({ children }) => (
 );
 export default function Index() {
   const TEXT =
-    "When Sebastian Thrun started working on self-driving cars at Google in 2007, few people outside of the company took him seriously. “I can tell you very senior CEOs of major American car companies would shake my hand and turn away because I wasn’t worth talking to,” said Thrun, now the co-founder and CEO of online higher education startup Udacity, in an interview with Recode earlier this week. A little less than a decade later, dozens of self-driving startups have cropped up while automakers around the world clamor, wallet in hand, to secure their place in the fast-moving world of fully automated transportation.";
+    "   Experience with the front-end basics: HTML5, CSS3, and JS Experience using a version control systemFamiliarity with MV* frameworks, e.g. React, Ember, Angular, Vue";
+
   const [state, setState] = useState([
     {
       start: 5,
